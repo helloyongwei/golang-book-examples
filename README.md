@@ -1,3 +1,7 @@
+# 说明
+《Go语言入门经典》书中的源代码
+这是我从其他网站上下载的源码. 传到这里备用
+
 # Golang Book Examples
 
 [![Build Status](https://travis-ci.org/shapeshed/golang-book-examples.svg?branch=master)](https://travis-ci.org/shapeshed/golang-book-examples)
